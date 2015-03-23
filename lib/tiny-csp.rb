@@ -1,0 +1,5 @@
+require 'tiny-csp/domain'
+require 'tiny-csp/variable'
+require 'tiny-csp/constraint'
+require 'tiny-csp/problem'
+require 'tiny-csp/solver'
